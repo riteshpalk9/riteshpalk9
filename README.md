@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 ### 🧑‍💻 About Me:
 - 🎓 Pursuing **B.Tech in Mathematics and Computing** at **Delhi Technological University (DTU)**
 - 💡 Passionate about **Web Development, AI/ML, and System Design**
-- 🏆 Solved **400+ DSA problems** across **LeetCode, CodeChef, and other platforms**  
-- 🎭 Management Head at **Pratibimb - DTU’s Dramatics & Film-making Society**  
+- 🏆 Solved **400+ DSA problems** across **LeetCode, CodeChef, and other platforms**   
 
 ### 🔧 Tech Stack:
 - **Languages:** C, C++, Java, JavaScript, MySQL  
